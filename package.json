@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/hellstad/meteor-please.git"
+    "url": "git://github.com/ashersz/meteor-please.git"
   },
   "keywords": [
     "mplz",
@@ -26,6 +26,6 @@
     "rhel",
     "fedora"
   ],
-  "author": "Kevin van Guldenaar <kevin@kevincharm.com>",
+  "author": "Asher Szmulewicz <asher@curiyo.com>",
   "license": "MIT"
 }
